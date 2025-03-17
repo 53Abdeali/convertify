@@ -1,0 +1,9 @@
+com\convertify\converters\TextToPDFConverter.class
+com\convertify\config\WebConfig.class
+com\convertify\controller\FileDownloadController.class
+com\convertify\ConvertifyApplication.class
+com\convertify\converters\CsvExcelConverter.class
+com\convertify\converters\ImageFormatConverter.class
+com\convertify\models\ConversionHistory.class
+com\convertify\converters\ImageToPDFConverter.class
+com\convertify\controller\FileConversionController.class
